@@ -2,6 +2,7 @@
 A responsive web application for browsing, purchasing, and managing books online. Built using PHP, MySQL, jQuery, and Bootstrap for seamless user experience and efficient backend management.
 
 🔧 Features
+
 User registration and secure login system using PHP sessions
 
 Admin dashboard for managing books, categories, orders, and users
